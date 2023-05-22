@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QR Attendance</string>
+
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+
+    <string name="btn_login">Login</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_time_in_out">Time In/Out</string>
+    <string name="menu_attendance_list">Attendance List</string>
+    <string name="menu_my_info">My Info</string>
+    <string name="menu_sign_out">Sign Out</string>
+
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+
+    <string name="time_in">Time In</string>
+    <string name="time_out">Time Out</string>
+    <string name="date_time">2021–11–06 1:00 pm</string>
+</resources>
