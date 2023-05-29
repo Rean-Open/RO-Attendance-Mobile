@@ -22,7 +22,7 @@ Sample QR Code in Screenshots directory
 - API with https://github.com/Rean-Open/RO-Attendance-PHP
 
 ## Team
-### Initial Project Team - 2022
+### Initial Project Team - 2021
 - Lecturer: mt@osify.com
 - Ms. Thida TEK
 - Mr. Pengleng HUOT
